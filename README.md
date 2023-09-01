@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks implementing Reinforcement Learning algorithms to solve different problems. 
 
-The notebooks use Tensorflow 2.1. and Numpy 3.6.9. 
+The notebooks use Numpy 1.21.6 and Tensorflow 2.8.0. 
 
 ### Table of contents
 
