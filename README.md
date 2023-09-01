@@ -9,6 +9,6 @@ The notebooks use Tensorflow 2.1. and Numpy 3.6.9.
 * [1 - Option Pricing with Dynamic Programming]()
 * [2 - Parking World with Monte Carlo](https://github.com/bmarroc/reinforcement-learning/blob/main/2/2.ipynb)
 * [3 - Cliff Walking with TDL and SARSA](https://github.com/bmarroc/reinforcement-learning/blob/main/3/3.ipynb)
-* [4 - Shortcut Maze with TDL and Q-Learning]()
+* [4 - Shortcut Maze with TDL and Q-Learning](https://github.com/bmarroc/reinforcement-learning/blob/main/4/4.ipynb)
 * [5 - Random Walk with Function Approximation]()
 * [6 - Mountain Car with Policy Gradient]()
