@@ -11,4 +11,6 @@ The notebooks use Numpy 1.21.6 and Tensorflow 2.8.0.
 * [3 - Cliff Walking with TDL and SARSA](https://github.com/bmarroc/reinforcement-learning/blob/main/3/3.ipynb)
 * [4 - Shortcut Maze with TDL and Q-Learning](https://github.com/bmarroc/reinforcement-learning/blob/main/4/4.ipynb)
 * [5 - Random Walk with Function Approximation](https://github.com/bmarroc/reinforcement-learning/blob/main/5/5.ipynb)
+<!--- 
 * [6 - Mountain Car with Policy Gradient](https://github.com/bmarroc/reinforcement-learning/blob/main/6/6.ipynb)
+--->
